@@ -93,6 +93,18 @@
             "ext": "./lib/tokenm.json$$$./lib/thundershare.txt"
         },
         {
+            "key": "SambaShare",
+            "name": "Samba分享",
+            "type": 3,
+            "api": "csp_SambaShare",
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0,
+            "filterable": 0,
+            "timeout": 60,
+            "ext": "./lib/tokenm.json$$$./lib/sambashare.txt"
+        },
+        {
             "key": "直播转点播",
             "name": "🐼️┃电视┃直播",
             "type": 3,
@@ -235,7 +247,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 30,
-            "ext": "./lib/tokenm.json$$$https://www.meijumi.net/$$$null$$$1"
+            "ext": "./lib/tokenm.json$$$https://www.meijumi.xyz/$$$null$$$1"
         },
         {
             "key": "Libvio",
@@ -363,7 +375,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 30,
-            "ext": "./lib/tokenm.json$$$https://pan.qianfan.app$$$null$$$./lib/qianfan.txt"
+            "ext": "./lib/tokenm.json$$$https://pan.qianfan.app$$$null$$$./lib/qianfan.txt$$$1"
         },
         {
             "key": "YunSo",
@@ -374,7 +386,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 30,
-            "ext": "./lib/tokenm.json"
+            "ext": "./lib/tokenm.json$$$https://www.yunso.net$$$null$$$1"
         },
         {
             "key": "YunPanOne",

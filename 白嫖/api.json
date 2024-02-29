@@ -54,16 +54,32 @@
             "ext": "https://www.6080yy4.com"
         },
         {
-            "key": "AList",
-            "name": "网盘|雅雅",
+            "key": "aikun",
+            "name": "影视|皮皮",
             "type": 3,
-            "api": "csp_AListBox",
+            "api": "csp_WebAiKun",
             "searchable": 1,
-            "changeable": 0,
-            "ext": "https://d.kstore.space/download/6474/tvbox/json/xy.json#公众号:影视资源站",
-            "style": {
-                "type": "list"
-            }
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "http://aikun.tv"
+        },
+        {
+            "key": "hh",
+            "name": "影视|胡胡",
+            "type": 3,
+            "api": "csp_WebHH",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
+        {
+            "key": "jp",
+            "name": "APP|荐片",
+            "type": 3,
+            "api": "csp_Jianpian",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
         },
         {
             "key": "xifan",
