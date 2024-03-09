@@ -29,22 +29,6 @@
             "api": "csp_Local"
         },
         {
-            "key": "PikPakShare",
-            "name": "PikPak分享",
-            "type": 3,
-            "api": "csp_PikPakShare",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 0,
-            "timeout": 60,
-            "ext": "./lib/tokenm.json$$$./lib/pikpakclass.json$$$./lib/pikpakclass.json.txt.gz",
-            "style": {
-                "type": "list",
-                "ratio": 1.1
-            }
-        },
-        {
             "key": "AliShare",
             "name": "阿里云盘影视分享",
             "type": 3,
@@ -103,6 +87,22 @@
             "filterable": 0,
             "timeout": 60,
             "ext": "./lib/tokenm.json$$$./lib/thundershare.txt",
+            "style": {
+                "type": "list",
+                "ratio": 1.1
+            }
+        },
+        {
+            "key": "PikPakShare",
+            "name": "PikPak分享",
+            "type": 3,
+            "api": "csp_PikPakShare",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 0,
+            "timeout": 60,
+            "ext": "./lib/tokenm.json$$$./lib/pikpakclass.json$$$./lib/pikpakclass.json.txt.gz",
             "style": {
                 "type": "list",
                 "ratio": 1.1
@@ -168,7 +168,7 @@
         },
         {
             "key": "Wogg",
-            "name": "玩偶哥哥|阿里",
+            "name": "玩偶哥哥|网盘",
             "type": 3,
             "api": "csp_Wogg",
             "quickSearch": 1,
@@ -176,6 +176,17 @@
             "filterable": 1,
             "timeout": 60,
             "ext": "./lib/tokenm.json$$$https://wogg.xyz/$$$null$$$1$$$./lib/wogg.json"
+        },
+        {
+            "key": "Moli",
+            "name": "HDmoli|网盘",
+            "type": 3,
+            "api": "csp_Moli",
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "timeout": 60,
+            "ext": "./lib/tokenm.json$$$https://www.hdmoli.pro/$$$null$$$1$$$./lib/moli.json"
         },
         {
             "key": "影视车",
@@ -948,6 +959,22 @@
             "name": "酷狗",
             "type": 3,
             "api": "csp_Kugou",
+            "searchable": 1,
+            "changeable": 0
+        },
+        {
+            "key": "Iktv",
+            "name": "KTV",
+            "type": 3,
+            "api": "csp_Iktv",
+            "searchable": 1,
+            "changeable": 0
+        },
+        {
+            "key": "Yinyuetai",
+            "name": "音悦台",
+            "type": 3,
+            "api": "csp_Yinyuetai",
             "searchable": 1,
             "changeable": 0
         },
