@@ -21,7 +21,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://www.czzy55.com/"
+            "ext": "https://www.czzy77.com/"
         },
         {
             "key": "csp_AppTT",
@@ -33,16 +33,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "AO7TcBkd8Jqf5UgA7xXA6dVlLcc="
-        },
-        {
-            "key": "csp_Bdys",
-            "name": "☀哔嘀",
-            "type": 3,
-            "api": "csp_Bdys",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1
         },
         {
             "key": "csp_YQKan",
@@ -68,6 +58,16 @@
             "name": "💡酷看",
             "type": 3,
             "api": "csp_Kkys",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "csp_YCyz",
+            "name": "☀原创",
+            "type": 3,
+            "api": "csp_YCyz",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -132,7 +132,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://www.hdmyy.com/"
+            "ext": "https://www.80yy3.com/"
         },
         {
             "key": "csp_Bttwoo",
@@ -321,17 +321,6 @@
             "filterable": 0,
             "changeable": 0,
             "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
-        },
-        {
-            "key": "Zhaozy",
-            "name": "🦊找资源",
-            "type": 3,
-            "api": "csp_Zhaozy",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$lmok37266@bazatek.com$$$Yoursmile"
         },
         {
             "key": "push_agent",
