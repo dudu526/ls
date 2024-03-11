@@ -14,7 +14,7 @@
             "filterable": 0
         },
         {
-            "key": "玩偶哥哥",
+            "key": "玩偶",
             "name": "👽玩偶哥哥┃4K弹幕",
             "type": 3,
             "api": "csp_WoGG",
@@ -37,6 +37,17 @@
             "name": "💡酷看┃秒播",
             "type": 3,
             "api": "csp_Kkys",
+            "timeout": 15,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "原创",
+            "name": "☀原创┃无广",
+            "type": 3,
+            "api": "csp_YCyz",
+            "timeout": 15,
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1
@@ -46,24 +57,30 @@
             "name": "👓视觉┃直连",
             "type": 3,
             "api": "csp_Xinsj",
+            "timeout": 15,
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": "https://www.hdmyy.com/"
+            "ext": "https://www.80yy3.com/"
         },
         {
-            "key": "追剧",
-            "name": "💥追剧┃App",
+            "key": "厂长",
+            "name": "📔厂长┃无广",
             "type": 3,
-            "api": "csp_AppTT",
+            "api": "csp_Czsapp",
+            "timeout": 15,
             "playerType": 2,
-            "ext": "AO7TcBkd8Jqf5UgA7xXA6dVlLcc="
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "https://www.czzy77.com/"
         },
         {
-            "key": "嘀嘀",
-            "name": "☀嘀嘀┃无广",
+            "key": "77",
+            "name": "👒七七┃秒播",
             "type": 3,
-            "api": "csp_Bdys",
+            "api": "csp_Kunyu77",
+            "timeout": 15,
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1
@@ -79,50 +96,43 @@
             "changeable": 1
         },
         {
+            "key": "萌米",
+            "name": "👀萌米┃App",
+            "type": 3,
+            "api": "csp_AppTT",
+            "timeout": 15,
+            "playerType": 1,
+            "ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg=="
+        },
+        {
+            "key": "追剧",
+            "name": "💥追剧┃App",
+            "type": 3,
+            "api": "csp_AppTT",
+            "timeout": 15,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "playerType": 1,
+            "ext": "AO7TcBkd8Jqf5UgA7xXA6dVlLcc="
+        },
+        {
             "key": "南瓜",
             "name": "🎃南瓜┃App",
             "type": 3,
             "api": "csp_NanGua",
+            "timeout": 15,
             "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1
-        },
-        {
-            "key": "77",
-            "name": "👒七七┃秒播",
-            "type": 3,
-            "api": "csp_Kunyu77",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
-            "key": "萌米",
-            "name": "👀萌米┃App",
-            "type": 3,
-            "api": "csp_AppMao",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "ext": "FbjDcUxPqpfNr0QF4QvEpcoxMMdAA5wQTClJt+Hxgw4VXJLfrTSRjQjA6r70U2ONX3iG4lQWk1cgXQMSUZpbUzIYJ6iQs3+gcUVDp1lz6rcrGqDtCW4hfAf9JSR025m0+TGWMsZkVg=="
-        },
-        {
-            "key": "Czsapp",
-            "name": "📔厂长┃无广",
-            "type": 3,
-            "api": "csp_Czsapp",
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "https://www.czzy55.com/"
         },
         {
             "key": "毛驴",
             "name": "🍓毛驴┃直连",
             "type": 3,
             "api": "csp_MLYS",
+            "timeout": 15,
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
@@ -133,6 +143,7 @@
             "name": "🍊在线┃外剧",
             "type": 3,
             "api": "csp_Zxzj",
+            "timeout": 15,
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
@@ -152,6 +163,7 @@
             "name": "🌾农民┃直连",
             "type": 3,
             "api": "csp_Nmys",
+            "timeout": 15,
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
@@ -168,9 +180,10 @@
         },
         {
             "key": "Lib",
-            "name": "🌟利播┃直连",
+            "name": "🌟立播┃直连",
             "type": 3,
             "api": "csp_Libvio",
+            "timeout": 15,
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
@@ -181,13 +194,14 @@
             "name": "🏝奥特┃直连",
             "type": 3,
             "api": "csp_Auete",
+            "timeout": 15,
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
             "ext": "https://auete.pro/"
         },
         {
-            "key": "csp_SP33",
+            "key": "SP33",
             "name": "📺三三┃解析",
             "type": 3,
             "api": "csp_SP33",
@@ -418,16 +432,6 @@
             "quickSearch": 1,
             "changeable": 0,
             "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
-        },
-        {
-            "key": "Zhaozy",
-            "name": "🐺找资源┃搜索",
-            "type": 3,
-            "api": "csp_Zhaozy",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$zhaoziyuan777$$$qqq111"
         },
         {
             "key": "PanSou",
