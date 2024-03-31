@@ -84,7 +84,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://www.baipiaoys.com/"
+            "ext": "https://www.baipiaoys.com:9092/"
         },
         {
             "key": "csp_Jianpian",
@@ -183,16 +183,6 @@
             "filterable": 1
         },
         {
-            "key": "360",
-            "name": "💘360",
-            "type": 3,
-            "api": "csp_SP33",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1
-        },
-        {
             "key": "csp_SixV",
             "name": "🧲新6V",
             "type": 3,
@@ -276,7 +266,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"
+            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt---4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"
         },
         {
             "key": "YiSo",
@@ -287,7 +277,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
+            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt---4k|auto|fhd"
         },
         {
             "key": "PanSou",
@@ -298,7 +288,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
+            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt---4k|auto|fhd"
         },
         {
             "key": "UpYun",
@@ -309,7 +299,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
+            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt---4k|auto|fhd"
         },
         {
             "key": "PanSearch",
@@ -320,7 +310,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
+            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt---4k|auto|fhd"
         },
         {
             "key": "Dovx",
@@ -331,7 +321,17 @@
             "quickSearch": 1,
             "filterable": 0,
             "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
+            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt---4k|auto|fhd"
+        },
+        {
+            "key": "csp_QuarkPanso",
+            "name": "🐺夸搜",
+            "type": 3,
+            "api": "csp_QuarkPanso",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt---4k|auto|fhd"
         },
         {
             "key": "push_agent",
@@ -341,7 +341,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
+            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt---4k|auto|fhd"
         },
         {
             "key": "csp_Nbys",

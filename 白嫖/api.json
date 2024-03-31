@@ -44,24 +44,14 @@
             "ext": "https://v.nmvod.cn"
         },
         {
-            "key": "997",
-            "name": "影视|997",
+            "key": "xsj",
+            "name": "弹幕|视觉",
             "type": 3,
             "api": "csp_Web608",
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 0,
             "ext": "https://www.6080yy4.com"
-        },
-        {
-            "key": "aikun",
-            "name": "影视|皮皮",
-            "type": 3,
-            "api": "csp_WebAiKun",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "http://aikun.tv"
         },
         {
             "key": "jp",
@@ -131,7 +121,7 @@
         },
         {
             "key": "ting",
-            "name": "听书|听书",
+            "name": "听书|有声",
             "type": 3,
             "api": "csp_BookTing",
             "searchable": 1,
@@ -159,6 +149,16 @@
                 "ratio": 1.433
             },
             "api": "csp_Config"
+        },
+        {
+            "key": "push_agent",
+            "name": "辅助|推送",
+            "type": 3,
+            "style": {
+                "type": "rect",
+                "ratio": 1.433
+            },
+            "api": "csp_Push"
         }
     ],
     "parses": [],
