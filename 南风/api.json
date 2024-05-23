@@ -24,6 +24,16 @@
             "ext": "https://czzy.top/"
         },
         {
+            "key": "csp_Nmys",
+            "name": "🥝农民",
+            "type": 3,
+            "api": "csp_Nmys",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/nmys.json"
+        },
+        {
             "key": "csp_AppTT",
             "name": "💥萌米",
             "type": 3,
@@ -183,6 +193,16 @@
             "ext": "http://www.xb6v.com/"
         },
         {
+            "key": "csp_SP360",
+            "name": "💘360",
+            "type": 3,
+            "api": "csp_SP360",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1
+        },
+        {
             "key": "csp_Anime1",
             "name": "🌸动漫",
             "type": 3,
@@ -322,6 +342,20 @@
             "changeable": 0,
             "ext": {
                 "aliToken": "http://127.0.0.1:9978/file/fatcat/token.txt",
+                "from": "4k|auto|fhd"
+            }
+        },
+        {
+            "key": "csp_MIPanSo",
+            "name": "🦋米搜",
+            "type": 3,
+            "api": "csp_MIPanSo",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": {
+                "pan": "quark",
+                "quarkCookie": "http://152.32.170.60/Yoursmile7/TVBox/raw/branch/master/cookie.txt",
                 "from": "4k|auto|fhd"
             }
         },
