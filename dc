@@ -1,59 +1,59 @@
 { 
 	"urls": [
         { 
-            "url": "https://ghproxy.net/https://raw.githubusercontent.com/ls125781003/qqctg/main/饭太硬/api.json", 
+            "url": "https://cdn.jsdelivr.us/https://raw.githubusercontent.com/ls125781003/qqctg/main/饭太硬/api.json", 
             "name": "饭太硬" 
         },
         { 
-            "url": "https://ghproxy.net/https://raw.githubusercontent.com/ls125781003/qqctg/main/小米/api.json", 
+            "url": "https://cdn.jsdelivr.us/https://raw.githubusercontent.com/ls125781003/qqctg/main/小米/api.json", 
             "name": "小米" 
         },
         { 
-            "url": "https://ghproxy.net/https://raw.githubusercontent.com/ls125781003/qqctg/main/肥猫/api.json", 
+            "url": "https://cdn.jsdelivr.us/https://raw.githubusercontent.com/ls125781003/qqctg/main/肥猫/api.json", 
             "name": "肥猫" 
         },
         { 
-            "url": "https://ghproxy.net/https://raw.githubusercontent.com/ls125781003/qqctg/main/香雅情/api.json", 
+            "url": "https://cdn.jsdelivr.us/https://raw.githubusercontent.com/ls125781003/qqctg/main/香雅情/api.json", 
             "name": "香雅情XYQ" 
         },
         {  
-            "url": "https://ghproxy.net/https://raw.githubusercontent.com/ls125781003/qqctg/main/南风/api.json", 
+            "url": "https://cdn.jsdelivr.us/https://raw.githubusercontent.com/ls125781003/qqctg/main/南风/api.json", 
             "name": "南风" 
         },
         { 
-            "url": "https://ghproxy.net/https://raw.githubusercontent.com/ls125781003/qqctg/main/OK/api.json", 
+            "url": "https://cdn.jsdelivr.us/https://raw.githubusercontent.com/ls125781003/qqctg/main/OK/api.json", 
             "name": "OK" 
         },
         { 
-            "url": "https://ghproxy.net/https://raw.githubusercontent.com/ls125781003/qqctg/main/PG/api.json", 
+            "url": "https://cdn.jsdelivr.us/https://raw.githubusercontent.com/ls125781003/qqctg/main/PG/api.json", 
             "name": "PG" 
         },
         { 
-            "url": "https://ghproxy.net/https://raw.githubusercontent.com/ls125781003/qqctg/main/天天开心/api.json", 
+            "url": "https://cdn.jsdelivr.us/https://raw.githubusercontent.com/ls125781003/qqctg/main/天天开心/api.json", 
             "name": "天天开心" 
         },
        { 
-            "url": "https://ghproxy.net/https://raw.githubusercontent.com/ls125781003/qqctg/main/白嫖/api.json", 
+            "url": "https://cdn.jsdelivr.us/https://raw.githubusercontent.com/ls125781003/qqctg/main/白嫖/api.json", 
             "name": "白嫖" 
         },
         { 
-            "url": "https://ghproxy.net/https://raw.githubusercontent.com/ls125781003/qqctg/main/骚零/api.json", 
+            "url": "https://cdn.jsdelivr.us/https://raw.githubusercontent.com/ls125781003/qqctg/main/骚零/api.json", 
             "name": "骚零" 
         },
         {   
-        	"url": "https://ghproxy.net/https://raw.githubusercontent.com/ls125781003/qqctg/main/王二小/api.json", 
+        	"url": "https://cdn.jsdelivr.us/https://raw.githubusercontent.com/ls125781003/qqctg/main/王二小/api.json", 
             "name": "王二小" 
         },
         {   
-        	"url": "https://ghproxy.net/https://raw.githubusercontent.com/ls125781003/qqctg/main/菜妮丝/api.json", 
+        	"url": "https://cdn.jsdelivr.us/https://raw.githubusercontent.com/ls125781003/qqctg/main/菜妮丝/api.json", 
             "name": "菜妮丝" 
         },
         {   
-        	"url": "https://ghproxy.net/https://raw.githubusercontent.com/ls125781003/qqctg/main/少儿频道/api.json", 
+        	"url": "https://cdn.jsdelivr.us/https://raw.githubusercontent.com/ls125781003/qqctg/main/少儿频道/api.json", 
             "name": "少儿频道" 
         },
         { 
-            "url": "https://ghproxy.net/https://raw.githubusercontent.com/ls125781003/qqctg/main/动漫频道/api.json", 
+            "url": "https://cdn.jsdelivr.us/https://raw.githubusercontent.com/ls125781003/qqctg/main/动漫频道/api.json", 
             "name": "动漫频道" 
         }
     ]
