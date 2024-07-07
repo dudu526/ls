@@ -251,7 +251,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$https://xpanpan.site$$$proxy$$$1",
+            "ext": "./lib/tokenm.json$$$https://xpanpan.site$$$noproxy$$$1",
             "style": {
                 "type": "list",
                 "ratio": 1.1
@@ -277,7 +277,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$https://www.wo4k.net/$$$proxy$$$1$$$./lib/wogg.json"
+            "ext": "./lib/tokenm.json$$$https://www.wo4k.com/$$$proxy$$$1$$$./lib/wogg.json"
         },
         {
             "key": "Wobg",
@@ -343,7 +343,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$https://www.80yy3.com/$$$noproxy$$$1$$$./lib/wogg.json"
+            "ext": "./lib/tokenm.json$$$https://6080z.com/$$$noproxy$$$1$$$./lib/wogg.json"
         },
         {
             "key": "团长资源",
