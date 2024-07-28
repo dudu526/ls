@@ -45,6 +45,10 @@
             "name": "王二小" 
         },
         {   
+        	"url": "https://cdn.jsdelivr.us/https://raw.githubusercontent.com/ls125781003/qqctg/main/短剧频道/api.json", 
+            "name": "短剧频道" 
+        },
+        {   
         	"url": "https://cdn.jsdelivr.us/https://raw.githubusercontent.com/ls125781003/qqctg/main/少儿频道/api.json", 
             "name": "少儿频道" 
         },
