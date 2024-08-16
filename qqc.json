@@ -29,6 +29,10 @@
             "name": "天天开心" 
         },
         { 
+            "url": "https://bitbucket.org/ls125781003/qqctg/raw/main/摸鱼儿/api.json", 
+            "name": "摸鱼儿" 
+        },
+        { 
             "url": "https://bitbucket.org/ls125781003/qqctg/raw/main/戏曲音乐/api.json", 
             "name": "戏曲音乐" 
         },
