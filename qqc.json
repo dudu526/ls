@@ -12,10 +12,6 @@
             "url": "https://bitbucket.org/ls125781003/qqctg/raw/main/肥猫/api.json", 
             "name": "肥猫" 
         },
-        { 
-            "url": "https://bitbucket.org/ls125781003/qqctg/raw/main/香雅情/api.json", 
-            "name": "香雅情XYQ" 
-        },
         {  
             "url": "https://bitbucket.org/ls125781003/qqctg/raw/main/南风/api.json", 
             "name": "南风" 
@@ -55,10 +51,6 @@
         {   
         	"url": "https://bitbucket.org/ls125781003/qqctg/raw/main/少儿频道/api.json", 
             "name": "少儿频道" 
-        },
-        { 
-            "url": "https://bitbucket.org/ls125781003/qqctg/raw/main/动漫频道/api.json", 
-            "name": "动漫频道" 
         }
     ]
 }
